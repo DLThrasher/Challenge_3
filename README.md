@@ -15,4 +15,4 @@
 # My next step is to analyze the data. 
   ## After my inital analysis of the data, I see that I did not change the "$". 
   ## I'm unsure where I went wrong here and will attempt to return to this later but in the interest of time I will move on. 
-  ##
+  ## After further analysis I am going back to see where I went wrong as now I see that my charts are coming out as a default bar       chart instead of the line. 
